@@ -30,7 +30,7 @@
       "nethack"
     ],
     "dependencies": {
-      "pty.js": "~0.2.3",
+      "pty.js": "~0.3.0",
       "async": "~0.2.9",
       "minimist": "0.0.5",
       "shell-quote": "~1.4.1",
